@@ -19,5 +19,4 @@ Created as part of my Flutter learning journey to strengthen skills in UI design
 
 ---
 
-👨‍💻 Developed by [Shaheryar Saeed]([https://www.linkedin.com/in/shaheryar-saeed/](https://www.linkedin.com/in/shaheryar-saeed/
-))
+👨‍💻 Developed by [Shaheryar Saeed](https://www.linkedin.com/in/shaheryar-saeed-)
